@@ -43,13 +43,13 @@ tutorials and resources.
 
 # Installation
 
-project:
+project::
 `npm install webpack --save-dev`
 
-global:
+global::
 `npm install webpack -g`
 
-Usage:
+Usage::
 https://webpack.github.io/docs/tutorials/getting-started/
 
 # Examples
